@@ -25,10 +25,15 @@ These sources can be found in the resources folder of the repository.
 TRANSFORM
 1.	eruptions.csv:
 •	Firstly, the null values in the year columns were dropped.
+
 •	The null values then remaining in the day and month columns where then replaced with 1 to allow for datetime conversion.
+
 •	Data of volcanoes from before the year 1800 were dropped.
+
 •	Using lambda and .astype functions were used to convert the date columns from floats to string and then concatenated to form a valid datetime format which was appended to new columns in the data frame.
+
 •	The newly created date columns were then transformed to datetime using pandas to_date function.
+
 •	Unnecessary columns were then dropped to finalise the data frame.
 
 2.	volcano.csv:
