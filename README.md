@@ -1,7 +1,9 @@
 # Group-6-ETL-Project
 
 Project 2: ETL Challenge
+
 This project was completed by Group 6 which consists of Sam, Serena, Vignesh and Nicklas.
+
 The Jupyter notebook will create a database with information about volcanic eruptions since the 1800s.
 Four csv files from two different sources have been used to create the final database in PostgreSQL.
 The following steps were taken to load the data and take it through the clean-up process:
