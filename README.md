@@ -24,6 +24,7 @@ These sources can be found in the resources folder of the repository.
 
 TRANSFORM
 1.	eruptions.csv:
+
 •	Firstly, the null values in the year columns were dropped.
 
 •	The null values then remaining in the day and month columns where then replaced with 1 to allow for datetime conversion.
@@ -37,12 +38,15 @@ TRANSFORM
 •	Unnecessary columns were then dropped to finalise the data frame.
 
 2.	volcano.csv:
+
 •	
 
 3.	events.csv:
+
 •	
 
 4.	damages.csv:
+
 •	
 
 LOAD
