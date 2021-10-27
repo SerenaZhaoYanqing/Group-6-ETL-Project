@@ -46,6 +46,7 @@ TRANSFORM
 •	
 
 LOAD
+
 Once the transformation has been completed the tables were created from the schema created in quickdatabasediagrams.com.
 A database was created within PostgreSQL to which the schema was uploaded.
 Once the schema was uploaded to the database the final importing of data can occur. Take note that the data should only be uploaded once to avoid any errors with the primary keys.
