@@ -59,4 +59,4 @@ CREATE TABLE "Significant_Eruptions_impacts" (
         "volcano_number"
      )
 );
-select * from "Events"
+
