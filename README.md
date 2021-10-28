@@ -1,5 +1,14 @@
 # Group-6-ETL-Project
 
+Team member: 
 
-When connencting database: change password and databasename.
+Sam Portelli
+Yanqing ( Serena) ZHAO
+Vignesh Sundaramoorthi
+Nicklas Ringdahl
+
+Step1:  create a database, the run the schema 
+Step2:  updating your password and database for connecting the database
+Step3: Run jupyter notebook 
+
 
